@@ -16,7 +16,7 @@ Clone the repo and run the following:
 
 The API is a  basic node.js/express server. Clone the repo and run the following:
 
-- `cd backend`
+- `cd todo_backend`
 - `npm install`
 - `npm run dev`
 
